@@ -1,0 +1,6 @@
+{
+  "cdk-stack-dev": {
+    "bucketName": "cdk-stack-dev-cdkbucketf4700aff-1kr3vmosmmq0p",
+    "tableName": "cdk-stack-dev-todostableCA1914CD-IU50FSDC29QC"
+  }
+}
